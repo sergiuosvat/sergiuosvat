@@ -6,7 +6,7 @@
     <img width=300 src= "https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 </div>
 
-<h3 align="center">A passionate software developer from Romania 🇷🇴</h3>
+<h3 align="center">A passionate software developer from Romania</h3>
 
 <br>
  
@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/sergiu-osvat-602755242/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
 
