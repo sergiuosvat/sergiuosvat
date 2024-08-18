@@ -1,14 +1,6 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sergiu+Osvat!;" />
 </h1>
-
-<div align=center>
-    <img width=300 src= "https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
-</div>
-
-<h3 align="center">A passionate software developer from Romania</h3>
-
-<br>
  
 <div align="center"> 
   <a href="mailto:sergiuosvat27@gmail.com">
